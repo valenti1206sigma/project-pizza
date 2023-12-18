@@ -1,0 +1,59 @@
+.logo{
+   width: 50px;
+   
+   
+}
+header{
+    background-color: #d36829;
+    color:white;
+    padding: 10px;
+}
+header a {
+    color: rgb(168, 95, 0);
+    background-color: rgb(255, 252, 94);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+img,p{
+    border:3px solid rgb(255, 142, 37)
+    }
+    footer{
+        background-color: rgb(255, 174, 0);
+        
+    }
+    main{
+        background-color: rgb(255, 239, 92);
+        font-size: 20px;
+        text-align: center;
+        color: rgb(121, 122, 67);
+        border-radius: 10px;
+
+    }
+    body{
+        font-family: sans-serif;
+
+
+
+    }
+    .about{
+        padding: 5px;
+    }
+    #reviews{
+        text-align: center;
+    }
+    .review1{
+        width: 350px;
+        border-radius: 10px;
+        padding: 20px;
+    }
+    .menu{
+        padding: 10px;
+    }
+    #second{
+        text-align: center;
+    }
